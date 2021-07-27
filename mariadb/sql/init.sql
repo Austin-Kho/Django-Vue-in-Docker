@@ -1,0 +1,3 @@
+GRANT ALL PRIVILEGES ON demo.* TO 'demo'@'%';
+
+FLUSH PRIVILEGES;

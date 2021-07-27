@@ -37,6 +37,9 @@ Vue application development -> webpack dev server on.
 yarn serve
 ```
 
+now, go to [http://localhost/](http://localhost:8080) or [http://127.0.0.1/](http://127.0.0.1:8080)
+
+
 or Vue application deploy -> yarn build
 
 ```bash

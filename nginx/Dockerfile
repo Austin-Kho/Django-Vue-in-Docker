@@ -1,4 +1,4 @@
-FROM nginx:1.19.6
+FROM nginx
 
 RUN apt-get update
 RUN apt-get install -y wget

@@ -1,4 +1,4 @@
-FROM python:3.9
+FROM python
 ENV PYTHONUNBUFFERED 1
 RUN mkdir /applications && cd /applications && mkdir django
 WORKDIR /applications/django

@@ -28,6 +28,7 @@ __pycache__
 # django etc
 migrations
 media
+static
 settings/prod.py
 prod.py
 db.sqlite3
